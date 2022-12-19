@@ -19,6 +19,8 @@ const Perkins= new Producto(8, "Jersey Perkins", 4000, "img/jersey9.jpg");
 
 const productos = [Jersey, Canale, Vestido, Cropped, Top, CropTop, Halter, Perkins];
 
+console.log (productos)
+
 let carrito = [];
  
 
